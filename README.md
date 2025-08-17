@@ -23,7 +23,7 @@
 - **Interactive UI**: Engaging interface built with HTML, CSS, and JavaScript.
 
 ## Hosted Website
-Visit the live version of CampX here: [CampX Website](https://campx-ztww.onrender.com/)
+Visit the live version of CampX here: [CampX Website](https://campx-2.onrender.com/)
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
